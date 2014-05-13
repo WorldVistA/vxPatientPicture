@@ -1,0 +1,20 @@
+Install Delphi 7.0:
+
+Extract all files to some directory.
+
+Open the package tscap32.dpk:
+
+File -> Open..., choose tscap32.dpk
+
+In the package window, choose the "Install" button.
+
+Now, there should be an additional plane in the component palette, containing
+the tscap32 Components.
+
+
+Troubleshooting:
+
+"File not found: 'tscap32_rt.dcu'" - add the directory where you put the component into to the 
+Search path of the project (Project -> Options -> Tab Directories/Conditionals -> Field Search path)
+
+

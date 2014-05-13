@@ -1,0 +1,719 @@
+D:\work\d2006\vxPatientPicture\Unit1.dfm
+26426/1133801562
+0
+2
+D:\work\d2006\vxPatientPicture\About.dfm
+169558/1143634095
+2
+2
+D:\work\d2006\vxPatientPicture\cprs\CPRS brokerhistory\fxBroker.dfm
+16959/1127902900
+4
+32
+D:\work\d2006\vxPatientPicture\cprs\patient search\fAutoSz.dfm
+494/1127902329
+36
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fBase508Form.dfm
+563/1127902329
+38
+8
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelDemog.dfm
+4647/1127902329
+46
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelOptns.dfm
+4437/1127902329
+48
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSel.dfm
+3492/1131236633
+50
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPatientFlagMulti.dfm
+2414/1127902329
+52
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fD2006PatLookup.dfm
+1315/1127902225
+54
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fDupPts.dfm
+2342/1127902329
+56
+2
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelOptSave.dfm
+1743/1127902329
+58
+2
+D:\work\d2006\vxPatientPicture\fEnlarge.dfm
+4781/1128824374
+60
+2
+D:\work\d2006\vxPatientPicture\Unit1.pas
+76529/1133801617
+62
+75
+D:\work\d2006\vxPatientPicture\About.pas
+3559/1143633746
+137
+26
+D:\work\d2006\vxPatientPicture\cprs\CPRS brokerhistory\fxBroker.pas
+6886/1127902903
+163
+26
+D:\work\d2006\vxPatientPicture\cprs\patient search\fAutoSz.pas
+3881/1127902342
+189
+29
+D:\work\d2006\vxPatientPicture\cprs\patient search\fBase508Form.pas
+8812/1127902344
+218
+33
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelDemog.pas
+6153/1127902359
+251
+26
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelOptns.pas
+13624/1127902360
+277
+28
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSel.pas
+30644/1131236961
+305
+29
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPatientFlagMulti.pas
+3136/1127902354
+334
+26
+D:\work\d2006\vxPatientPicture\cprs\patient search\fD2006PatLookup.pas
+3455/1127902259
+360
+26
+D:\work\d2006\vxPatientPicture\cprs\patient search\fDupPts.pas
+2434/1127902353
+386
+26
+D:\work\d2006\vxPatientPicture\cprs\patient search\fPtSelOptSave.pas
+2580/1127902362
+412
+26
+D:\work\d2006\vxPatientPicture\fEnlarge.pas
+13595/1128825531
+438
+26
+D:\work\d2006\vxPatientPicture\fAdmin.dfm
+8169/1128824374
+464
+2
+D:\work\d2006\vxPatientPicture\fAdmin.pas
+12723/1128825125
+466
+27
+D:\work\d2006\vxPatientPicture\fSplash.dfm
+173573/1143633625
+493
+2
+D:\work\d2006\vxPatientPicture\fSplash.pas
+1760/1143633563
+495
+26
+D:\work\d2006\vxPatientPicture\UProgressBar.dfm
+1163/1121738345
+521
+2
+D:\work\d2006\vxPatientPicture\UProgressBar.pas
+547/1121738354
+523
+11
+D:\work\d2006\vxPatientPicture\fmFindingPatientImage.dfm
+691/1122066930
+534
+2
+D:\work\d2006\vxPatientPicture\fmFindingPatientImage.pas
+357/1122066895
+536
+10
+D:\work\d2006\vxPatientPicture\fFindingPatientImage.dfm
+951/1126793709
+546
+2
+D:\work\d2006\vxPatientPicture\fFindingPatientImage.pas
+1058/1126793975
+548
+26
+|EOINDEX|
+727
+object fmMain: TfmMain
+2457
+object frmAbout: TfrmAbout
+357
+inherited frmBroker: TfrmBroker
+inherited amgrMain: TVA508AccessibilityManager
+Data = (
+(
+'Component = pnlTop'
+'Status = stsDefault')
+(
+'Component = lblCallID'
+'Status = stsDefault')
+(
+'Component = txtMaxCalls'
+'Status = stsDefault')
+(
+'Component = cmdPrev'
+'Status = stsDefault')
+(
+'Component = cmdNext'
+'Status = stsDefault')
+(
+'Component = udMax'
+'Status = stsDefault')
+(
+'Component = btnRLT'
+'Status = stsDefault')
+(
+'Component = memData'
+'Status = stsDefault')
+(
+'Component = frmBroker'
+'Status = stsDefault'))
+end
+21
+object frmAutoSz: TfrmAutoSz
+24
+object frmBase508Form: TfrmBase508Form
+object amgrMain: TVA508AccessibilityManager
+Data = (
+(
+'Component = frmBase508Form'
+'Status = stsDefault'))
+end
+218
+object frmPtSelDemog: TfrmPtSelDemog
+188
+object frmPtSelOptns: TfrmPtSelOptns
+142
+object frmPtSel: TfrmPtSel
+112
+object frmFlags: TfrmFlags
+64
+object fmPatientLookup: TfmPatientLookup
+97
+object frmDupPts: TfrmDupPts
+76
+object frmPtSelOptSave: TfrmPtSelOptSave
+204
+object fmEnlarge: TfmEnlarge
+unit Unit1;
+
+{
+Copyright 2013 Document Storage Systems, Inc. 
+ 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+
+{.$DEFINE Debug}
+{$DEFINE WIN32}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Menus, tscap32_rt, ExtCtrls, StdCtrls, ComCtrls, uPtSel,
+  ORNet, ORFn, Trpcb, vxrpcBroker, JvExControls, JvButton, AxCtrls, ComObj,
+  JvTransparentButton, Buttons, JvExButtons, JvBitBtn, JvExStdCtrls,
+  JvCtrls, DB, DBClient, DBTables, Provider, Grids, DBGrids, IniFiles;
+
+const
+  VXPP_FIELD_NUMBER = '21603.01';
+  MUTEX_ID = '0A92CC1A-5634-4D50-A991-735E5F9D481E';
+  VXPATIENTPICTURE_V = ' vxPatientPicture v';
+  SPLASH_DELAY = 1000;
+  IMPREVIEW_INIT_HEIGHT = 250; //255;
+  IMPREVIEW_INIT_WIDTH  = 180; //300;
+  CONTEXT_NAME = 'VFDVXP PATIENT PIC CONTEXT';
+  VXPP_ADMIN_KEY = 'VFDVXP PATIENT PIC ADMIN';
+  MUST_HAVE_MENU_OPTION = 'To access vxPatientPicture, user must have Menu Option ' + CONTEXT_NAME;
+  PATH_PROBLEM = 'The picture folder path is missing, or is incorrect.' + CRLF +
+                 'Please contact the vxPatientPicture Adminstrator to update the picture folder path.' + CRLF+CRLF +
+                 'If you are the vxPatientPicture Administrator, click ''OK'' to continue.' + CRLF +
+                 'Otherwise, clicking ''OK'' will terminate the vxPatientPicture application.';
+  CANT_FIND_IMAGE_PATH = 'The image path in parameter ''VFDVXP PATIENT PIC ROOT'' can''t be found.' + CRLF+CRLF +
+                          'Please contact the vxPatientPicture Adminstrator';
+  CANT_FIND_IMAGE_PATH_ADMIN = 'A valid root directory for patient pictures can''t be found.' + CRLF+CRLF +
+                            'Please check to see that a valid directory path for patient images, exists.';
+  CAMERA_CONNECTED = 'Camera connected';
+  CAMERA_DISCONNECTED = 'Camera disconnected';
+  BROKER_CONNECTED = 'Broker connected';
+  BROKER_DISCONNECTED = 'Broker disconnected';
+
+{$IFDEF Debug}
+  MAX_FILES = 5;
+{$ELSE}
+  MAX_FILES = 100000;
+{$ENDIF}
+
+type
+{//REMOVE
+  TFSFlag = (FSCaseIsPreserved, FSCaseSensitive, FSUnicodeStoredOnDisk,
+      FSPersistentACLS, FSVolIsCompressed, FSFileCompression);
+  TFSFlags = set of TFSFlag;
+
+  TVolumeInfo = record
+    VolumeName: String;
+    VolumeSN: DWord;
+    MaxComponent: DWord;
+    FSFlags: TFSFlags;
+    FSName: String;
+  end;
+}
+  TfmMain = class(TForm)
+unit about;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, SysUtils, Classes, Graphics, Forms, Controls, StdCtrls, ExtCtrls,
+  VAUtils, StrUtils, jpeg, jclfileutils, Dialogs, JvBaseDlg, JvJVCLAboutForm;
+
+type
+  TfrmAbout = class(TForm)
+unit fxBroker;
+{
+Copyright 2012 Document Storage Systems, Inc. 
+ 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls, DateUtils, ORNet, ORFn, {rMisc,} ComCtrls, Buttons, ExtCtrls,
+  ORCtrls, ORSystem, fBase508Form, VA508AccessibilityManager, JvDialogs;
+
+type
+  TfrmBroker = class(TfrmBase508Form)
+unit fAutoSz;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+{ provides the basic mechanism to resize all the controls on a form when the form size is
+  changed.  Differs from frmAResize in that this one descends directly from TForm, rather
+  than TPage }
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs, StdCtrls;
+
+type
+  TfrmAutoSz = class(TForm)
+unit fBase508Form;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls, VA508AccessibilityManager, OR2006Compatibility;
+
+const
+  UM_508  = (WM_USER + 9508);  // used for 508 messages at 508 base form level
+
+type
+  TAccessibilityAction = (aaColorConversion, aaTitleBarHeightAdjustment,
+                          aaFixTabStopArrowNavigationBug);
+  TAccessibilityActions = set of TAccessibilityAction;
+
+  TfrmBase508Form = class(Tfrm2006Compatibility)
+unit fPtSelDemog;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls, ExtCtrls, ORCtrls;
+
+type
+  TfrmPtSelDemog = class(TForm)
+unit fPtSelOptns;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  ORDtTmRng, ORCtrls, StdCtrls, ExtCtrls, ORFn;
+
+type
+  TSetCaptionTopProc = procedure of object;
+  TSetPtListTopProc = procedure(IEN: Int64) of object;
+
+  TfrmPtSelOptns = class(TForm)
+unit fPtSel;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+{$OPTIMIZATION OFF}                              // REMOVE AFTER UNIT IS DEBUGGED
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls, ORCtrls, ExtCtrls, ORFn, ORNet, ORDtTmRng, Gauges, Menus, ComCtrls,
+  Buttons, JvExButtons, JvButtons, AxCtrls, ComObj{,UBAGlobals, UBACore};
+
+type
+  TfrmPtSel = class(TForm)
+unit fPatientFlagMulti;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, fAutoSz, ORCtrls, ExtCtrls, ComCtrls, rMisc;
+
+type
+  TfrmFlags = class(TfrmAutoSz)
+unit fD2006PatLookup;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Buttons, StdCtrls, uPtSel, ORNet, ORFn, Trpcb, vxrpcBroker;
+
+type
+  TfmPatientLookup = class(TForm)
+unit fDupPts;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, Dialogs, StdCtrls, ORCtrls, ExtCtrls, OrFn;
+
+type
+  TfrmDupPts = class(TForm)
+unit fPtSelOptSave;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls, ExtCtrls, ORCtrls, ORFn;
+
+type
+  TfrmPtSelOptSave = class(TForm)
+unit fEnlarge;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, StdCtrls, JvExControls, JvButton, JvTransparentButton, AxCtrls, ComObj;
+
+type
+  TfmEnlarge = class(TForm)
+288
+object fmAdmin: TfmAdmin
+unit fAdmin;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Menus, StdCtrls, ComCtrls, ExtCtrls, Mask, JvExMask, JvSpin,
+  FileCtrl, ORNet, ORFn;
+
+type
+  TfmAdmin = class(TForm)
+2419
+object fmSplash: TfmSplash
+unit fSplash;
+
+{
+Copyright 2013 Document Storage Systems, Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ComCtrls, StdCtrls, ExtCtrls, jclfileutils, dateutils, jpeg;
+
+type
+  TfmSplash = class(TForm)
+50
+object fmProgressBar: TfmProgressBar
+unit UProgressBar;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ComCtrls, JvExComCtrls, JvProgressBar, JvExControls,
+  JvScrollText, JvSpecialProgress;
+
+type
+  TfmProgressBar = class(TForm)
+31
+object Form2: TForm2
+unit fmFindingPatientImage;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm2 = class(TForm)
+43
+object fmFindingPatientImage: TfmFindingPatientImage
+unit fFindingPatientImage;
+
+{
+Copyright 2012 Document Storage Systems, Inc. 
+ 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+}
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+
+type
+  TfmFindingPatientImage = class(TForm)

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/06 14:08:00.221.bdsproj,C:\Documents and Settings\AdvDev\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\vxPicApp.bdsproj</Transaction>
+    <Transaction>2013/06/06 14:22:52.206.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\fD2006PatLookup.pas=</Transaction>
+    <Transaction>2013/06/06 14:22:52.206.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\fD2006PatLookup.dfm=</Transaction>
+    <Transaction>2013/06/06 14:33:22.456.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\uConst.pas=</Transaction>
+    <Transaction>2013/06/06 14:38:23.643.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPatientFlagMulti.pas=</Transaction>
+    <Transaction>2013/06/06 14:38:23.643.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPatientFlagMulti.dfm=</Transaction>
+    <Transaction>2013/06/06 14:54:37.534.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\rCore.pas=</Transaction>
+    <Transaction>2013/06/06 14:55:40.034.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\CPRS brokerhistory\uEncryption.pas=</Transaction>
+    <Transaction>2013/06/06 15:04:39.753.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptns.pas=</Transaction>
+    <Transaction>2013/06/06 15:04:39.753.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptns.dfm=</Transaction>
+    <Transaction>2013/06/06 15:06:16.096.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptSave.pas=</Transaction>
+    <Transaction>2013/06/06 15:06:16.096.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptSave.dfm=</Transaction>
+    <Transaction>2013/06/06 15:07:37.174.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fDupPts.pas=</Transaction>
+    <Transaction>2013/06/06 15:07:37.174.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fDupPts.dfm=</Transaction>
+    <Transaction>2013/06/06 15:47:48.065.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptns.pas=</Transaction>
+    <Transaction>2013/06/06 15:47:48.065.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\fPtSelOptns.dfm=</Transaction>
+    <Transaction>2013/06/06 15:49:02.909.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.1\rCore.pas=</Transaction>
+    <Transaction>2013/06/06 16:08:08.065.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\fPtSel.pas=</Transaction>
+    <Transaction>2013/06/06 16:08:08.065.dfm,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\fPtSel.dfm=</Transaction>
+    <Transaction>2013/06/06 16:08:11.268.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\uPtSel.pas=</Transaction>
+    <Transaction>2013/06/06 16:14:18.174.pas,C:\Documents and Settings\AdvDev\Desktop\vxPatientPictureDLL\version 0.0.0.2\cprs\patient search\uOrPtf.pas=</Transaction>
+    <Transaction>2013/06/12 17:07:26.521.bdsproj,D:\work\d2006\vxPatientPicture\vxPicApp.bdsproj=D:\work\d2006\vxPatientPicture\vxPatientPicture.bdsproj</Transaction>
+    <Transaction>2013/06/18 15:39:25.697.pas,D:\work\d2006\vxPatientPicture\Unit2.pas=D:\work\d2006\vxPatientPicture\fAdmin.pas</Transaction>
+    <Transaction>2013/06/18 15:39:25.697.dfm,D:\work\d2006\vxPatientPicture\Unit2.dfm=D:\work\d2006\vxPatientPicture\fAdmin.dfm</Transaction>
+    <Transaction>2013/06/28 11:47:24.049.pas,D:\work\d2006\vxPatientPicture\Unit2.pas=D:\work\d2006\vxPatientPicture\UProgressBar.pas</Transaction>
+    <Transaction>2013/06/28 11:47:24.049.dfm,D:\work\d2006\vxPatientPicture\Unit2.dfm=D:\work\d2006\vxPatientPicture\UProgressBar.dfm</Transaction>
+    <Transaction>2013/06/28 11:56:36.441.pas,D:\work\d2006\vxPatientPicture\UProgressBar.pas=</Transaction>
+    <Transaction>2013/06/28 11:56:36.441.dfm,D:\work\d2006\vxPatientPicture\UProgressBar.dfm=</Transaction>
+    <Transaction>2013/07/01 12:14:29.240.pas,D:\work\d2006\vxPatientPicture\Unit2.pas=D:\work\d2006\vxPatientPicture\fmFindingPatientImage.pas</Transaction>
+    <Transaction>2013/07/01 12:14:29.240.dfm,D:\work\d2006\vxPatientPicture\Unit2.dfm=D:\work\d2006\vxPatientPicture\fmFindingPatientImage.dfm</Transaction>
+    <Transaction>2013/07/01 12:16:14.560.pas,D:\work\d2006\vxPatientPicture\fmFindingPatientImage.pas=</Transaction>
+    <Transaction>2013/07/01 12:16:14.560.dfm,D:\work\d2006\vxPatientPicture\fmFindingPatientImage.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,49 @@
+package tscap32;
+
+{$R *.res}
+{$R 'tscap32_rt.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'tscap32 Video Capture Component'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  designide,
+  vclactnband,
+  vclx,
+  vcl;
+
+contains
+  vfwunit in 'vfwunit.pas',
+  tscap32_rt in 'tscap32_rt.pas',
+  tsDebug in 'tsDebug.pas',
+  tsDibRel in 'tsDibRel.pas',
+  tsLogbox in 'tsLogbox.pas',
+  tsMessages in 'tsMessages.pas',
+  tsmisc in 'tsmisc.pas',
+  tsTechAboutFrm in 'tsTechAboutFrm.pas',
+  tstlg in 'tstlg.pas',
+  tstlg2 in 'tstlg2.pas',
+  tscap32_dt in 'tscap32_dt.pas';
+
+end.

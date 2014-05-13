@@ -1,0 +1,17 @@
+2003-04-19 -  Thomas stuefe -  Delphi 7 version (split code into designtime and
+                               runtime package etc)
+
+2003-03-31 -  Thomas stuefe -  initial release of 3.1open
+
+History:
+tscap32 was developed originally 1996 and used in a range of medical 
+applications, later for a long time sold as shareware. 
+
+Development pretty much ceased after 2000, as I didn't have time to 
+maintain the component. People urged me to release the source code, 
+so after a time I decided to release the component's source under GPL.
+
+
+2003-03-31 Thomas Stuefe
+
+Enjoy! :-)
